@@ -48,7 +48,7 @@
 
 ![image](https://user-images.githubusercontent.com/55894683/144727441-37e1a050-b61c-4213-860a-7c6da20fadd7.png)
 
-**Result :** Spotify hesabına “**Spotify Api Test**” adında bir playlist eklenir.
+◻️ **Result :** Spotify hesabına “**Spotify Api Test**” adında bir playlist eklenir.
 
 ![image](https://user-images.githubusercontent.com/55894683/144727537-3c9d7a35-6a07-4ab2-925c-32c7d5abd1bd.png)
 
@@ -65,7 +65,7 @@
 
 ![image](https://user-images.githubusercontent.com/55894683/144727497-f097b987-d600-4c6f-b8ac-f740dce2ea9a.png)
 
-**Result :** Spotify hesabına “**Spotify Api Test**” adında bir playlist eklenir. Playlist adının “**Updated Spotify Api Test**” olarak update edildiği görülür.
+◻️ **Result :** Spotify hesabına “**Spotify Api Test**” adında bir playlist eklenir. Playlist adının “**Updated Spotify Api Test**” olarak update edildiği görülür.
 
 ![image](https://user-images.githubusercontent.com/55894683/144727542-1f7c609b-9b5c-4a74-8d5d-c0bb81fe946a.png)
 
