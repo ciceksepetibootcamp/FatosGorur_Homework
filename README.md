@@ -15,3 +15,7 @@
 〰️ Postman API Collection : https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week2
 
 〰️ Postman API Collection için Medium Yazısı : https://fatosgorur.medium.com/postmande-spotify-api-ile-%C3%A7al%C4%B1%C5%9Fma-f7e8adf75cd5
+
+🔘 3. Hafta:
+
+〰️ API TEST : https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/spotify-api-test
