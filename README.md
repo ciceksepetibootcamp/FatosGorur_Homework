@@ -20,5 +20,4 @@
 
 > **3. Hafta:**
 
-🔹 [Spotify Api Test with REST Assured](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/spotify-api-test)
 
