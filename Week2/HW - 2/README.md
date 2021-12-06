@@ -10,7 +10,7 @@
 
 🔸 Postman arayüzünde sağ üst köşedeki Import butonu ile paylaşılan dosyayı import edebilir ve kendi bilgisayarınızdan detaylı inceleyebilirsiniz. 
 
-Projeye ait detaylı bilgilere " Postman’ de Spotify API ile Çalışma " adlı medium yazımdan ulaşabilirsiniz. (https://fatosgorur.medium.com/postmande-spotify-api-ile-%C3%A7al%C4%B1%C5%9Fma-f7e8adf75cd5)
+Projeye ait detaylı bilgilere " Postman ile Spotify API " adlı medium yazımdan ulaşabilirsiniz. (https://fatosgorur.medium.com/postmande-spotify-api-ile-%C3%A7al%C4%B1%C5%9Fma-f7e8adf75cd5)
 
 
 
