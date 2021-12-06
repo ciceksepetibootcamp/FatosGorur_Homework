@@ -20,4 +20,8 @@
 
 > **3. Hafta:**
 
+🔹 [Rest Assured Api Testing --> Spotify API Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/HW-1)
+
+🔹 [Cucumber Web Testing --> Gratis.com UI Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/HW-2)
+
 
