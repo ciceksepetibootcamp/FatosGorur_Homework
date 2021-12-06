@@ -11,7 +11,6 @@ import utilities.Driver;
 
 import java.time.Duration;
 
-//span[class='info']
 public class SearchStep {
     private WebDriver driver;
     HomePage homePage = new HomePage();
