@@ -13,9 +13,9 @@
 
 🔹 [Google Page Speed Hakkında Medium Yazısı](https://fatosgorur.medium.com/pagespeed-insights-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-cc3e5962413)
 
-🔹 [Postman API Collection](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week2/HW-2)
+🔹 [Postman API Collection --> Spotify API](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week2/HW-2)
 
-🔹 [Postman API Collection için Medium Yazısı](https://fatosgorur.medium.com/postmande-spotify-api-ile-%C3%A7al%C4%B1%C5%9Fma-f7e8adf75cd5)
+🔹 [Postman API Collection için Medium Yazısı --> Spotify API](https://fatosgorur.medium.com/postmande-spotify-api-ile-%C3%A7al%C4%B1%C5%9Fma-f7e8adf75cd5)
 
 
 > **3. Hafta:**
