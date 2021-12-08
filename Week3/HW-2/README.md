@@ -1,6 +1,6 @@
 # gratis-cucumber-project
 
-◻️ Bu proje **Cucumber framework** kullanılarak **https://www.gratis.com/** için yazılmış web test projesidir. Projede Page Object Pattern kullanılmıştır. 
+◻️ Bu proje **Cucumber framework** kullanılarak **https://www.gratis.com/** için yazılmış web test projesidir. 
 
 ◻️ **IntelliJ IDEA** ’da bir maven projesi oluşturulmuştur. **pom.xml**’e gerekli kütüphaneler yüklenmiştir. Cucumber kullanımı için gerekli pluginler eklenmiştir. (**Cucumber for java, Gherkin**)
 
