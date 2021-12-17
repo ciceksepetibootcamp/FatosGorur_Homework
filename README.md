@@ -6,7 +6,7 @@
 
 🔹 [25 Manuel Test (Excel)](https://docs.google.com/spreadsheets/d/1gbAW1UR_dH0t81eYDcxZSGOtTqSOENUzhO0Tn6M8C8A/edit?usp=sharing)
 
-🔹 [Çiçek Sepeti Test Cases](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week1/HW-2)
+🔹 [Çiçek Sepeti Web Testing --> ciceksepeti.com UI Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week1/HW-2)
 
 
 > **2. Hafta:**
@@ -23,5 +23,19 @@
 🔹 [Rest Assured Api Testing --> Spotify API Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/HW-1)
 
 🔹 [Cucumber Web Testing --> Gratis.com UI Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week3/HW-2)
+
+
+> **4. Hafta:**
+
+🔹 [.NET Core Web Testing --> Amazon.com UI Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week4/netcore-automation-test)
+
+🔹 [.Net Core ile Test Otomasyon Hakkında Medium Yazısı](https://fatosgorur.medium.com/net-core-ile-test-otomasyon-df1558dfd965)
+
+🔹 [Python Web Testing --> Amazon.com UI Test](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week4/python-automation-test)
+
+🔹 [Python ile Test Otomasyon Hakkında Medium Yazısı](https://fatosgorur.medium.com/python-ile-otomasyon-testi-821ea8a533e3)
+
+
+
 
 
