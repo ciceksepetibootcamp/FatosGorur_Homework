@@ -1,6 +1,6 @@
 # appium-cucumber-project
 
-⬛ Bu proje **Java** ile **Cucumber Framawork** kullanılarak cimri.com Android uygulaması için yazılmış **Appium mobil test** projesidir. Projede Page Object Pattern kullanılmıştır.
+⬛ Bu proje **Java** ile **Cucumber Framework** kullanılarak cimri.com Android uygulaması için yazılmış **Appium mobil test** projesidir. Projede Page Object Pattern kullanılmıştır.
 
 ⬛ Ide olarak **Intellij IDEA** kullanılmıştır. 
 
