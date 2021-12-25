@@ -35,7 +35,11 @@
 
 🔹 [Python ile Test Otomasyon Hakkında Medium Yazısı](https://fatosgorur.medium.com/python-ile-otomasyon-testi-821ea8a533e3)
 
+> **5. Hafta:**
+> 
+🔹 [Appium Mobile Testing in Java](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week5/appium-mobile-test)
 
+🔹 [Appium Mobile Testing in Java with Cucumber Framework](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week5/appium-cucumber-project)
 
 
 
