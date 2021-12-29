@@ -41,5 +41,9 @@
 
 🔹 [Appium Mobile Testing in Java with Cucumber Framework](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/Week5/appium-cucumber-project)
 
+> **Çiçek Sepeti Ekstra Ödevler :**
+
+🔹 [Integration Testing with Postman](https://github.com/ciceksepetibootcamp/FatosGorur_Homework/tree/main/integration-testing-with-postman)
+
 
 
